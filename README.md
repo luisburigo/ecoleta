@@ -11,7 +11,7 @@
   </a>
 </p>
 
-## About
+## 📋 About
 
 Ecoleta, is a web application and mobile for register waste collect points and search points for waste collect. 
 
@@ -19,7 +19,7 @@ In <b>Web</b>, it is possible register waste collect points and add image, your 
 
 In <b>Mobile</b>, it is possible search waste collect points by city, uf and filter waste items in map. In details collect points it is possible send e-mail and whatsapp. 
 
-## How to run the project?
+## 🤷🏻‍♀️ How to run the project?
 
 - Install depencies for server and run:
 
@@ -47,7 +47,7 @@ In <b>Mobile</b>, it is possible search waste collect points by city, uf and fil
   yarn start
 ```
 
-## Used Technologies and Libs
+## 🛰 Used Technologies and Libs
 
 In <b>server</b>:
 - [TypeScript](https://www.typescriptlang.org/)
@@ -66,7 +66,7 @@ In <b>mobile</b>
 - [React Native Maps](https://www.npmjs.com/package/react-native-maps)
 - [React Native Navigation](https://reactnavigation.org/)
 
-## Result
+## 📈 Result
 
 - The layout developed for [Rocketseat](https://reactnative.dev/) is available in [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/);
 
